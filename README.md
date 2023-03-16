@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ubaid
+### Hi there 👋, I am Ubaid. This repository is about my Deep Learning Internship at ByteWise
 
 ### Checkout my Machine Learning Projects: https://www.youtube.com/watch?v=Wm7QNb61F1s&list=PLjowWp9YgJdqtHH5z7nFLPRHVduZD6Z3f
 
