@@ -1,0 +1,12 @@
+ Task 02
+
+Topics: Remote Repositories in Git
+Resource: https://drive.google.com/file/d/1HPvzEhvZhjOi52XcX7BpsZAx6-AkdWWa/view?usp=share_link
+
+After learning about Remote Repos do the following:
+1). Create your GitHub account if don't have any yet. 
+2). Create a repository named "Deep-Learning-BWF"
+3). Push your screenshots of work or word/pdf files you made of practice work to the repo. 
+4). Submit your task response in the form with your GitHub Repository link at: https://forms.gle/LyUcHyX9ckK8439T7
+
+⚠ Deadline: 02:00 PM (16 March 2023)
