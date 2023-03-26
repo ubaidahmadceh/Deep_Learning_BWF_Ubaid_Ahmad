@@ -1,0 +1,3 @@
+Task 06
+
+Topics: Dictionaries in Python, Keys, Values, Dictionary Methods, Adding, Removing, Changing items
