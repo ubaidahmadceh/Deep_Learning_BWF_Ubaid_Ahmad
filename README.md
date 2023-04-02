@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Ubaid. This repository is about my Deep Learning Internship at ByteWise
 
+### Tasks Explainer Videos: https://www.youtube.com/playlist?list=PL2RVeVxsc5gb1D4mvaWYVZH9hNcrFGFUs
+
 ### Checkout my Machine Learning Projects: https://www.youtube.com/watch?v=Wm7QNb61F1s&list=PLjowWp9YgJdqtHH5z7nFLPRHVduZD6Z3f
 
 [![Watch the video](https://img.youtube.com/vi/nsc5_2jBLbk/0.jpg)](https://www.youtube.com/watch?v=nsc5_2jBLbk&list=PLjowWp9YgJdqtHH5z7nFLPRHVduZD6Z3f&index=22)
