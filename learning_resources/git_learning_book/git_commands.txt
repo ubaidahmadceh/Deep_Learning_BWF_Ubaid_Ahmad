@@ -1,0 +1,17 @@
+Configuration of git:
+
+$ git config --global user.name “John Doe”
+$ git config --global user.email “john@doe.org”
+$ git config --global color.ui auto
+
+# to intialize a git project:
+git init
+
+# to commit (Commit is a two step process in git) first we have to stage changes by:
+git add -A (it will stage all changes in a files)
+# then we commit these changes:
+git commit -m "first commit"
+
+# to see a list of all commits you made
+git reflog
+git log --oneline 
